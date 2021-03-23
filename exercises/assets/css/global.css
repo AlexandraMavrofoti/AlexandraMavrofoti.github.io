@@ -31,7 +31,7 @@ h1 {
 }
 
 h2 {
-    font-size: calc(28px + (42 - 28) * ((100vw - 320px) / (1600 - 320))); 
+    font-size: calc(38px + (64 - 28) * ((100vw - 320px) / (1600 - 320))); 
     letter-spacing: 6px;
     margin-bottom: 48px;
     line-height: 1.2;
